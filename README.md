@@ -16,6 +16,7 @@
 <img align="left" alt="c" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="lua" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/lua-5-logo-png-transparent.png" />
 <img align="left" alt="python" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" />
+<img align="left" alt="php" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /> <br />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" /> <br />
 
 ---
